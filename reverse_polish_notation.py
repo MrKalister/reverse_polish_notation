@@ -1,4 +1,3 @@
-"""ID успешной посылки 69524189."""
 OPERATIONS = {
     '+': lambda num_1, num_2: num_1 + num_2,
     '*': lambda num_1, num_2: num_1 * num_2,
