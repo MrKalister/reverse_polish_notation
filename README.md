@@ -8,11 +8,11 @@ Python 3.9.10
 ### Installation and launch:
 1. Clone the repository. On the command line:
 ```
-git clone https://github.com/MrKalister/yatube_final.git
+git clone https://github.com/MrKalister/reverse_polish_notation.git
 ```
 or use SSH-key:
 ```
-git clone git@github.com:MrKalister/yatube_final.git
+git clone git@github.com:MrKalister/reverse_polish_notation.git
 ```
 2. Fill in input.txt in accordance with the example available in it.
 
